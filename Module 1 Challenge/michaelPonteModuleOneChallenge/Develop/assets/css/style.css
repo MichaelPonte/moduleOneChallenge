@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Styles the header of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +16,7 @@ body {
     color: #ffffff;
 }
 
+/* Individually styles the text of each element accordingly in the header area of the page */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -40,16 +42,20 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* Untill here */
 
+/* Styles all link elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Styles all paragraph elements */
 p {
     font-size: 16px;
 }
 
+/* Style changes for big main image of page */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,11 +65,13 @@ p {
     background-position: center;
 }
 
+/* Aligns elements to the left of section */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Aligns elements to the right of section */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -75,6 +83,7 @@ p {
     margin-left: 20px;
 }
 
+/* Styles the benefits area of the right of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +95,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Individually styles all images and text accordingly in the benefits area of page */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,7 +143,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Untill here */
 
+/* Styles the "Search engine optimisation" area of the page */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +155,7 @@ p {
     color: #ffffff;
 }
 
+/* Styles the "Online reputation management" area of the page */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +165,7 @@ p {
     color: #ffffff;
 }
 
+/* Styles the "Social media marketing" area of the page */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +175,7 @@ p {
     color: #ffffff;
 }
 
+/* Styles the three small images of the page accordingly */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +187,9 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+/* untill here */
 
+/* Styles the h2 elements of the page accordingly*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +204,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* untill here */
 
+/* Style changes for the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +214,7 @@ p {
     text-align: center;
 }
 
+/* style changes for footer h2 text elements */
 .footer h2 {
     font-size: 20px;
 }
