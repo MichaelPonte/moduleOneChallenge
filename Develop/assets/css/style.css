@@ -113,28 +113,8 @@ main {
 }
 /* Untill here */
 
-/* Styles the "Search engine optimisation" area of the page */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Styles the "Online reputation management" area of the page */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Styles the "Social media marketing" area of the page */
-.social-media-marketing {
+/* Styles sections marked utilities area of main */
+.utilities {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -144,35 +124,15 @@ main {
 }
 
 /* Styles the three small images of the page accordingly */
-.search-engine-optimization img {
+.utilities img {
     max-height: 200px;
 }
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-/* untill here */
 
 /* Styles the h2 elements of the page accordingly*/
-.search-engine-optimization h2 {
+.utilities h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* untill here */
 
 /* Style changes for the footer */
 footer {
